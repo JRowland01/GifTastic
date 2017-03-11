@@ -3,6 +3,10 @@
 	margin:0 auto;
 }
 
+html{
+	overflow-y: scroll;
+}
+
 #fButton .gifButton{
 
 	margin:10px 10px 5px 0;
